@@ -87,7 +87,7 @@ These constraints improve suitability for weekend trips.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python 3.11.1  
 - Pandas  
 
@@ -166,6 +166,7 @@ This project fulfills all assignment requirements:
 ##  Author
 **Partha Gayen**  
 GitHub: https://github.com/ParthaG23
+
 LinkedIn: https://linkedin.com/in/partha-gayen  
 
 If you find this project helpful, consider giving the repository a star.
