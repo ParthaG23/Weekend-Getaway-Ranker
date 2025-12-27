@@ -113,7 +113,7 @@ Weekend-Getaway-Ranker/
    `pip install -r requirements.txt`
 
 2. Run the application from the project root directory:  
-   `python src/getaway_ranker.py`
+   `python src/weekend_Getaway_ranker.ipynb`
 
 3. Provide input:
    - Enter a source city (e.g., Kolkata, Delhi, Mumbai), or  
