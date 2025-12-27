@@ -1,0 +1,4 @@
+Name	City	State	Rating	Popularity	Visit_Time_Hours	Score
+Gurudwara Bangla Sahib	New Delhi	Delhi	4.8	1.05	1.0	0.5811538461538461
+Jama Masjid	New Delhi	Delhi	4.5	0.49	1.0	0.4852884615384615
+Rail Museum	New Delhi	Delhi	4.4	0.24	2.0	0.40602564102564104

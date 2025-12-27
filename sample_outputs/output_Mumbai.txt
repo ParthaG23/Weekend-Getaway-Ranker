@@ -1,0 +1,6 @@
+Name	City	State	Rating	Popularity	Visit_Time_Hours	Score
+Mahalakshmi Temple	Kolhapur	Maharastra	4.8	0.9	1.0	0.5349999999999999
+Sai Baba Temple	Shirdi	Maharastra	4.7	0.69	1.5	0.48708333333333337
+Shaniwar Wada	Pune	Maharastra	4.4	1.2	2.0	0.47833333333333333
+Ganapatipule Temple	Ratnagiri	Maharastra	4.7	0.1	1.0	0.45791666666666675
+Deekshabhoomi	Nagpur	Maharastra	4.5	0.11	1.0	0.4379166666666666
