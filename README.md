@@ -97,10 +97,10 @@ These constraints improve suitability for weekend trips.
 Weekend-Getaway-Ranker/  
 │  
 ├── data/  
-│   └── Top_Indian_Places_to_Visit.csv  
+│   └── travel_dataset.csv  
 │  
 ├── src/  
-│   └── getaway_ranker.py  
+│   └──weekend_Getaway_ranker.ipynb  
 │  
 ├── requirements.txt  
 ├── sample_output.txt  
@@ -166,7 +166,6 @@ This project fulfills all assignment requirements:
 ##  Author
 **Partha Gayen**  
 GitHub: https://github.com/ParthaG23
-
 LinkedIn: https://linkedin.com/in/partha-gayen  
 
 If you find this project helpful, consider giving the repository a star.
