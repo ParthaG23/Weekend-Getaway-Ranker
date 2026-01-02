@@ -1,6 +1,10 @@
-Name	City	State	Rating	Popularity	Visit_Time_Hours	Score
-Mahalakshmi Temple	Kolhapur	Maharastra	4.8	0.9	1.0	0.5349999999999999
-Sai Baba Temple	Shirdi	Maharastra	4.7	0.69	1.5	0.48708333333333337
-Shaniwar Wada	Pune	Maharastra	4.4	1.2	2.0	0.47833333333333333
-Ganapatipule Temple	Ratnagiri	Maharastra	4.7	0.1	1.0	0.45791666666666675
-Deekshabhoomi	Nagpur	Maharastra	4.5	0.11	1.0	0.4379166666666666
+Top Weekend Getaways:
+
+Name                                              City      State        Google review rating  Number of google review in lakhs  Final Score
+-----------------------------------------------------------------
+Gateway of India                                  Mumbai    Maharashtra  4.6                  3.60                              0.873
+Siddhivinayak Temple                              Mumbai    Maharashtra  4.8                  1.05                              0.820
+Marine Drive                                      Mumbai    Maharashtra  4.5                  1.50                              0.808
+Mahalaxmi Temple                                  Mumbai    Maharashtra  4.7                  0.33                              0.793
+Chhatrapati Shivaji Maharaj Vastu Sangrahalaya    Mumbai    Maharashtra  4.6                  0.34                              0.785
+

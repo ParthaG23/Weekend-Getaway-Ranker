@@ -100,7 +100,7 @@ Weekend-Getaway-Ranker/
 │   └── travel_dataset.csv  
 │  
 ├── src/  
-│   └──weekend_Getaway_ranker.ipynb  
+│   └──weekend_Getaway_ranker.py  
 │  
 ├── requirements.txt  
 ├── sample_output.txt  

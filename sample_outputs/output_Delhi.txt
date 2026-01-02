@@ -1,4 +1,7 @@
-Name	City	State	Rating	Popularity	Visit_Time_Hours	Score
-Gurudwara Bangla Sahib	New Delhi	Delhi	4.8	1.05	1.0	0.5811538461538461
-Jama Masjid	New Delhi	Delhi	4.5	0.49	1.0	0.4852884615384615
-Rail Museum	New Delhi	Delhi	4.4	0.24	2.0	0.40602564102564104
+Top Weekend Getaways:
+
+Name            City        State          Google review rating  Number of google review final_score
+---------------------------------------------------------------------------------------------------
+India Gate          Delhi       Delhi           4.6                2.50                         0.93
+Qutub Minar         Delhi       Delhi           4.7                2.20                         0.92
+Taj Mahal           Agra        Uttar Pradesh   4.8                3.00                         0.90
